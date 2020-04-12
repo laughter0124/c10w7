@@ -10,7 +10,7 @@
 library(shiny)
 library(tm)
 
-setwd("/Users/Jane/Documents/Data Science/c10/w7/FinalProject")
+# setwd("/Users/Jane/Documents/Data Science/c10/w7/FinalProject")
 load("data.RData")
 
 # Define server logic required to draw a histogram
